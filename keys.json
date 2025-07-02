@@ -11,9 +11,9 @@
     "Key": "0938-YELP-2399-P011",
     "CreationDate": "2025-07-02T00:00:00",
     "ValidDays": 7,
-    "HardwareId": null,
-    "BoundTo": null,
-    "LastActivation": null
+    "HardwareId": "94306C95B1560820",
+    "BoundTo": "DESKTOP-VHQSPFS",
+    "LastActivation": "2025-07-02T23:39:04.2917800Z"
   },
   {
     "Key": "DEVS-ONTO-SUMS-1111",
