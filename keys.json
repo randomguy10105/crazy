@@ -1,1 +1,17 @@
-
+[
+    {
+        "Key": "STAM-9PLA-0011-4983",
+        "CreationDate": "2025-07-02T00:00:00",
+        "ValidDays": 1
+    },
+    {
+        "Key": "0938-YELP-2399-P011",
+        "CreationDate": "2025-07-02T00:00:00",
+        "ValidDays": 7
+    },
+    {
+        "Key": "LONG-TERM-KEYS-1234",
+        "CreationDate": "2025-07-02T00:00:00",
+        "ValidDays": 30
+    }
+]
