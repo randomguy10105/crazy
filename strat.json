@@ -34,47 +34,48 @@
     "Tails",
     "Tails",
     "Tails",
+    "Heads",
     "Heads"
   ],
   "PatternCounts": {
-    "HeadsHeads": 12,
+    "HeadsHeads": 13,
     "HeadsTails": 4,
     "TailsTails": 14,
     "TailsHeads": 4
   },
   "PatternProbabilities": {
-    "HeadsHeads": 35.294117647058826,
-    "HeadsTails": 11.76470588235294,
-    "TailsTails": 41.17647058823529,
-    "TailsHeads": 11.76470588235294
+    "HeadsHeads": 37.142857142857146,
+    "HeadsTails": 11.428571428571429,
+    "TailsTails": 40.0,
+    "TailsHeads": 11.428571428571429
   },
   "StreakProbabilities": {
     "Heads": {
       "1": 50.0,
-      "2": 5.567774472516317,
+      "2": 5.564108797428088,
       "3": 50.0,
-      "4": 4.933908106644018,
+      "4": 4.287069007984146,
       "5": 50.0,
       "6": 50.0,
       "7": 50.0,
-      "8": 3.1910420208219272,
+      "8": 3.0670627479086825,
       "9": 50.0,
       "10": 50.0
     },
     "Tails": {
       "1": 50.0,
-      "2": 6.881652662199572,
+      "2": 5.650490196873033,
       "3": 50.0,
-      "4": 4.381044987091014,
+      "4": 4.7333981576303765,
       "5": 50.0,
       "6": 50.0,
       "7": 50.0,
-      "8": 3.0952219547293045,
+      "8": 2.9999887016438462,
       "9": 50.0,
       "10": 50.0
     }
   },
-  "BaseHeadsProbability": 48.57142857142857,
-  "BaseTailsProbability": 51.42857142857142,
-  "TotalFlips": 35
+  "BaseHeadsProbability": 50.0,
+  "BaseTailsProbability": 50.0,
+  "TotalFlips": 36
 }
