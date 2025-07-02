@@ -3,12 +3,13 @@
     "Heads",
     "Heads",
     "Tails",
+    "Tails",
     "Tails"
   ],
   "PatternCounts": {
     "HeadsHeads": 1,
     "HeadsTails": 1,
-    "TailsTails": 1
+    "TailsTails": 2
   },
   "PatternProbabilities": {},
   "StreakProbabilities": {
@@ -39,5 +40,5 @@
   },
   "BaseHeadsProbability": 50.0,
   "BaseTailsProbability": 50.0,
-  "TotalFlips": 4
+  "TotalFlips": 5
 }
