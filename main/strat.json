@@ -1,5 +1,7 @@
 {
-  "FlipHistory": [],
+  "FlipHistory": [
+    "Heads"
+  ],
   "PatternCounts": {},
   "PatternProbabilities": {},
   "StreakProbabilities": {
@@ -30,5 +32,5 @@
   },
   "BaseHeadsProbability": 50.0,
   "BaseTailsProbability": 50.0,
-  "TotalFlips": 0
+  "TotalFlips": 1
 }
