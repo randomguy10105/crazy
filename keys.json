@@ -2,16 +2,25 @@
     {
         "Key": "STAM-9PLA-0011-4983",
         "CreationDate": "2025-07-02T00:00:00",
-        "ValidDays": 1
+        "ValidDays": 1,
+        "HardwareId": null,
+        "BoundTo": null,
+        "LastActivation": null
     },
     {
         "Key": "0938-YELP-2399-P011",
         "CreationDate": "2025-07-02T00:00:00",
-        "ValidDays": 7
+        "ValidDays": 7,
+        "HardwareId": null,
+        "BoundTo": null,
+        "LastActivation": null
     },
     {
         "Key": "LONG-TERM-KEYS-1234",
         "CreationDate": "2025-07-02T00:00:00",
-        "ValidDays": 30
+        "ValidDays": 30,
+        "HardwareId": null,
+        "BoundTo": null,
+        "LastActivation": null
     }
 ]
